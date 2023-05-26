@@ -1,0 +1,2 @@
+com/DefaultCompany/FlappyLearner/BuildConfig.java
+ com.DefaultCompany.FlappyLearner.BuildConfig

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C5EB2928-024E-2420-6E2A-79BA8CC5DF88}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controladores/ControladorPersonagem.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controladores/ControladorJogo.cs" Line="104" Column="22" />
+      <File FileName="Assets/Scripts/Controladores/ControladorPersonagem.cs" Line="40" Column="10" />
+      <File FileName="Assets/Scripts/Controladores/ControladorCano.cs" Line="30" Column="79" />
+      <File FileName="Assets/Scripts/Controladores/ControladorPontos.cs" Line="61" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlappyLearner" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Controladores" expanded="True">
+                  <Node name="ControladorPersonagem.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d95de3ee-3aa1-489b-ac5a-f2a2f541d96c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
